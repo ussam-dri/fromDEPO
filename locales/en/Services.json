@@ -1,5 +1,65 @@
 [
   {
+    "id": 880,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Studies",
+    "description": " from building websites to influencing marketing campaigns, to get more engagement, more leads, and more sales.",
+    "category": "consulting",
+    "slug": "Studies"
+    
+  },
+  {
+    "id": 881,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Follow Up",
+    "description": "Our digital marketing strategy provides you with a variety of services, from building websites to influencing marketing campaigns, to get more engagement, more leads, and more sales.",
+    "category": "consulting",
+    "slug": "follow-up"
+    
+  },
+  {
+    "id": 882,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Engineering Training ",
+    "description": "Our digital marketing strategy provides you with a variety of services, from building websites to influencing marketing campaigns, to get more engagement, more leads, and more sales.",
+    "category": "consulting",
+    "slug": "Engineering-Training"
+    
+  },
+  {
+    "id": 991,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Consulting",
+    "description": "Unlocking potential through strategic guidance and expert analysis, our consulting service empowers businesses to thrive in today's dynamic market landscape. From comprehensive market research to tailored solutions.",
+    "category": "Default",
+    "slug": "Consulting"
+    
+  },
+  {
     "id": 1,
     "imageLayer": "/images/icons/layer.svg",
     "imageIcon": {
@@ -8,7 +68,7 @@
       "height": "36"
     },
     "iconColorClass": "",
-    "title": "Marketing Digital-en",
+    "title": "Marketing Digital",
     "description": "Our digital marketing strategy provides you with a variety of services, from building websites to influencing marketing campaigns, to get more engagement, more leads, and more sales.",
     "category": "Default",
     "slug": "Marketing Digital"
